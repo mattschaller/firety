@@ -1,7 +1,7 @@
 {
-  "name": "windty",
+  "name": "firety",
   "version": "1.0.0",
-  "description": "Simple 11ty template with tailwind",
+  "description": "Simple 11ty template with tailwind.",
   "scripts": {
     "start": "run-p start:*",
     "start:eleventy": "eleventy --serve",
@@ -13,18 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/distantcam/windty.git"
+    "url": "https://github.com/mattschaller/firety.git"
   },
   "keywords": [
     "eleventy",
     "11ty",
     "tailwind"
   ],
-  "author": "Cam MacFarland",
+  "author": "Matthew Schaller",
   "license": "Unlicense",
-  "homepage": "https://github.com/distantcam/windty#readme",
+  "homepage": "https://github.com/mattschaller/firety#readme",
   "bugs": {
-    "url": "https://github.com/distantcam/windty/issues"
+    "url": "https://github.com/mattschaller/firety/issues"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0",
