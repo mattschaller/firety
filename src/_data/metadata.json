@@ -4,16 +4,17 @@
   "about": {
     "title": "About me 🧙🏻",
     "paragraphs": [
-      "I am a proud father & husband located in Jupiter, Florida.",
-      "I have over a decade of experience as a software engineer &amp; team builder. I have overseen product development, ran large distributed engineering teams, and have significant experience surrounding ecommerce and software-as-a-service. I have worked on dozens of ecommerce implementations for large retail brands, and successfully scaled an enterprise B2B ecommerce solution to over 100 million dollars per year in transactions. ",
+      "I have over a decade of experience as a software engineer &amp; team builder. I have overseen product development, ran large distributed engineering teams, and have significant experience surrounding ecommerce and software-as-a-service. ",
+      "I have worked on dozens of ecommerce implementations for large retail brands, and successfully scaled an enterprise B2B ecommerce solution to over 100 million dollars per year in transactions. ",
       "I am always looking to grow as an engineer and a leader, hear about interesting projects and opportunities, and meeting like-minded people. Feel free to drop me a line.",
       "Visit my LinkedIn page to see career details."
     ]
   },
+  "email": "matt@mattschaller.com",
   "highlights": {
     "title": "Highlights 🏆",
     "items": [
-      "Currently Lead Software Engineer at The Learning Experience, where I lead a team responsible for building awesome products for children &amp; their parents.",
+      "I am Currently Lead Software Engineer at The Learning Experience, where I lead a team responsible for building awesome products for children &amp; their parents.",
       "Previously Director of Development at multiplica.us. Responsible for all client development, as well as an international team of 10 earthlings.",
       "Previously Development Manager for ecommerce at Gemaire Distributors, a Division of Watsco Inc (NYSE:WSO). Responsible for enterprise B2B ecommerce product built with Magento EE1.14. Involved in two Magento Excellence awards.",
       "Previously Team Lead at HiConversion. Responsible for 5 person frontend team working with high-end retail brands such as Pier 1, National Geographic, L’Oreal, Puma, and Finishline on the Demandware ecommerce platform (now SalesForce Commerce Cloud)."
